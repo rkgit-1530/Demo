@@ -1,1 +1,15 @@
 @import "tailwindcss";
+@plugin "daisyui";
+
+
+
+
+.navbar {
+    background-color: white !important;
+    color: black;
+    position:sticky
+}
+
+
+
+
